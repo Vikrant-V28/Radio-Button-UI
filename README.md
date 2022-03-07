@@ -17,4 +17,4 @@ The simple code to make `radio button UI` using HTML & CSS.
 </details>
 
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Vikrant](https://github.com/thevkrant)
